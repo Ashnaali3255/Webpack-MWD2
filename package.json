@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "name": "webpack-mwd2",
+  "description": "",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashnaali3255/Webpack-MWD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashnaali3255/Webpack-MWD2/issues"
+  },
+  "homepage": "https://github.com/Ashnaali3255/Webpack-MWD2#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
